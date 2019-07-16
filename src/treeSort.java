@@ -16,6 +16,7 @@ public class treeSort {
             fruit.add("apple");
             //after adding apple
             System.out.println("The set with banana: " + fruit);
+            //adding 1st comment
         }
     }
 
