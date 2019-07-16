@@ -15,6 +15,7 @@ public class treeSetWithCustomComparator {
             //banana is also considered as a duplicated item so it won't show
             //because we have the case insenitive
             System.out.println("After adding banana: " + fruits);
+            //hte
         }
     }
 
