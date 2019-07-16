@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a44b5b4d-ebe1-43de-ba0c-55ff1e620f48" name="Default Changelist" comment="" />
+    <list default="true" id="a44b5b4d-ebe1-43de-ba0c-55ff1e620f48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/treeSetWithCustomComparator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -39,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeSetwithacustomComparatorDescendingorder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
@@ -61,7 +63,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/studyingSet" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,8 +107,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeSetwithacustomComparatorDescendingorder">
+  <component name="RunManager" selected="Application.treeSetWithCustomComparator">
     <configuration name="TreeSetwithacustomComparatorDescendingorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TreeSetwithacustomComparatorDescendingorder" />
       <module name="studyOfSet" />
@@ -144,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeSetwithacustomComparatorDescendingorder" />
         <item itemvalue="Application.treeSetWithCustomComparator" />
+        <item itemvalue="Application.TreeSetwithacustomComparatorDescendingorder" />
         <item itemvalue="Application.treeSort" />
       </list>
     </recent_temporary>
@@ -165,7 +168,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -207,20 +209,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/treeSetWithCustomComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/TreeSetwithacustomComparatorDescendingorder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeSetwithacustomComparatorDescendingorder.java">
+    <entry file="file://$PROJECT_DIR$/src/treeSetWithCustomComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
